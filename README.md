@@ -8,7 +8,7 @@ The main operations of this module are:
 
 * Normalise the Letters: maps all glyphs of each letter to one representative glyph
 * Remove noises: removes any non-Arabic character, digits, and stop words
-* Stem the words: It is an affi stemmers and developed using finite state machine model 
+* Stem the words: It is an affix stemmer and developed using finite state machine model 
 
 ## Built With
 Python 3.6 and its built-in modules was used to develop **preper**. `Python 3.*` fully supports unicode characters. So, there is no need to change the characters to
