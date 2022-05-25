@@ -1,5 +1,5 @@
 # preper
-A Persian (Farsi) Preprocessing Python Module
+A Persian (Farsi) text preprocessing Python module
 
 ## About the project
 This Python module was developed as part of my Persian text mining project in 2010. It was because I felt lack of a Persian text preprocessing tool/library back then. 
